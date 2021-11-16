@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "bb720a43-a6bc-18f6-1ba7-d6b4459cca00"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Language Acquisition",
+  "course_description": "Covers the major results in the study of first language acquisition concentrating on the development of linguistic structure, including sentence structure and morphology. Universal aspects of development are discussed, as well as a variety of cross-linguistic phenomena. Theories of language learning are considered, including parameter-setting and maturation.\n",
+  "department_numbers": [
+    "9",
+    "24"
+  ],
+  "extra_course_numbers": "24.904J",
+  "primary_course_number": "9.57J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
